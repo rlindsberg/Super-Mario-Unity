@@ -6,7 +6,11 @@
     <e p="$PROJECT_DIR$" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="Movement.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="Coin.cs" t="Include" />
+          <e p="CoinCollector.cs" t="Include" />
+          <e p="Movement.cs" t="Include" />
+        </e>
       </e>
       <e p="New Unity Project.sln" t="IncludeFlat" />
       <e p="obj" t="ExcludeRecursive" />

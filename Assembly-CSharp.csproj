@@ -62,7 +62,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Movement.cs" />
+    <Compile Include="Assets\Scripts\Coin.cs" />
+    <Compile Include="Assets\Scripts\CoinCollector.cs" />
+    <Compile Include="Assets\Scripts\Movement.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/job314/New Unity Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
