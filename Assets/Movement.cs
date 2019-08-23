@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Movement : MonoBehaviour
 {
+    private bool canJump = true;
+    
     public Rigidbody MyRigidBody;
     // default 5m/s
     public float speed = 10;
@@ -28,11 +30,18 @@ public class Movement : MonoBehaviour
         //0 on other stuff
         transform.position += new Vector3(movement, 0, 0);
         
-        if (Input.GetButtonDown("Jump"))
+        if (canJump && Input.GetButtonDown("Jump"))
         {
-            MyRigidBody.AddForce(Vector3.up * 100);
+            MyRigidBody.AddForce(Vector3.up * 500);
+            canJump = false;
         }
 
 
+
+    }
+    
+    private void OnCollisionEnter(Collision collision)
+    {
+        canJump = true;
     }
 }
