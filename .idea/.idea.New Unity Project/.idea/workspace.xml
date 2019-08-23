@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbbb43e2-a578-4c6b-a58a-ea7646b52e5e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/New Unity Project/xs/UserPrefs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/New Unity Project/xs/UserPrefs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/New Unity Project/xs/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/New Unity Project/xs/sqlite3/storage.ide" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/New Unity Project/xs/sqlite3/storage.ide-shm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/New Unity Project/xs/sqlite3/storage.ide-wal" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Movement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Movement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CrashedAssetImports.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
@@ -29,18 +32,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/vcs.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectId" id="1Pp9j05kZe0bFN6OqdqU3JpdDNq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunDashboard">
@@ -78,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566560303138</updated>
-      <workItem from="1566560308625" duration="1066000" />
+      <workItem from="1566560308625" duration="1363000" />
     </task>
     <servers />
   </component>
